@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUBES", "TUBES\TUBES.csproj", "{CDEDE723-945D-4299-8AE4-143F7965E783}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kalkulator Kesehatan Wanita", "Kalkulator Kesehatan Wanita\Kalkulator Kesehatan Wanita.vdproj", "{BE65B8DF-D021-4A0D-BC24-16389BABCAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEDE723-945D-4299-8AE4-143F7965E783}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEDE723-945D-4299-8AE4-143F7965E783}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{CDEDE723-945D-4299-8AE4-143F7965E783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEDE723-945D-4299-8AE4-143F7965E783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE65B8DF-D021-4A0D-BC24-16389BABCAAD}.Debug|Any CPU.ActiveCfg = Debug
+		{BE65B8DF-D021-4A0D-BC24-16389BABCAAD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9397E4-FE98-4D37-96B7-C7F93C1DDBD8}
+	EndGlobalSection
+EndGlobal
